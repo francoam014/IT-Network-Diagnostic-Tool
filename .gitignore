@@ -1,0 +1,5 @@
+# Local diagnostic reports (may contain network information)
+diagnostic-report.json
+*-report.json
+*.log
+.DS_Store
